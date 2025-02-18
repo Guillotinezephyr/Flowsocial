@@ -1,0 +1,28 @@
+{
+  "name": "flowsocial",
+  "version": "1.0.0",
+  "description": "A lightweigght website template to get you started in minutes for a digital marketing agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneDevDotMe/Trio-Digital-Marketing-website-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OneDevDotMe/Trio-Digital-Marketing-website-template/issues"
+  },
+  "homepage": "https://github.com/OneDevDotMe/Trio-Digital-Marketing-website-template#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0",
+    "nodemailer": "^6.10.0",
+    "xlsx": "^0.18.5"
+  }
+}
